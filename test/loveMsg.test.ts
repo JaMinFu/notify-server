@@ -1,5 +1,5 @@
 import { describe, it } from 'vitest'
 
-describe('test goodMorning', () => {
+describe('test goodEvening', () => {
   it('work', async () => {})
 })
